@@ -1,4 +1,4 @@
-# Project2 - Inventario API
+# Project 2 - Inventario API
 
 One-liner: API REST para gestión de inventario con CRUD, filtros y paginación.  
 Stack: .NET 8, ASP.NET Core, Entity Framework Core, SQL Server, Docker.
